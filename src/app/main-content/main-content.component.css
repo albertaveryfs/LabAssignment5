@@ -14,3 +14,13 @@
   min-height: 50px;
   padding: .5em;
 }
+
+.add-button {
+  font-size: bold;
+  float: right;
+  margin: 10px;
+}
+
+.new-form {
+  background-color: aquamarine;
+}
