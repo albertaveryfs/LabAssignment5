@@ -1,7 +1,5 @@
 .main-footer {
-  background-color: #8482ff;
   display: grid;
   grid-template-columns: 3fr 6fr 3fr;
-  vertical-align: middle;
   height: 100%;
 }
